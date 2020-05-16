@@ -6,7 +6,7 @@ from botocore.client import Config
 
 ACCESS_KEY_ID = '*****************'
 ACCESS_SECRET_KEY = '**********************************'
-BUCKET_NAME = 'yourbucket'
+BUCKET_NAME = '*****************'
 
 #data = open('CloudHomework.jpg', 'rb')
 
