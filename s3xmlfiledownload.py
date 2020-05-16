@@ -4,9 +4,9 @@ import glob
 from botocore.client import Config
 
 
-ACCESS_KEY_ID = 'AKIAQEOLLI5ME6FUN5HP'
-ACCESS_SECRET_KEY = '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'
-BUCKET_NAME = 'aws-demo2'
+ACCESS_KEY_ID = '***********'
+ACCESS_SECRET_KEY = '*****************'
+BUCKET_NAME = '*********************'
 
 #data = open('CloudHomework.jpg', 'rb')
 
